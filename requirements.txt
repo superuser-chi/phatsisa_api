@@ -147,7 +147,7 @@ virtualenvwrapper-win==1.2.5
 vue==0.0.1
 wcwidth==0.1.7
 webassets==0.12.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 win-unicode-console==0.5
 wrapt==1.11.1
 WTForms==2.2.1
