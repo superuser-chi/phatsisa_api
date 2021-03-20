@@ -87,7 +87,7 @@ ipython==5.8.0
 ipython-genutils==0.2.0
 isort==4.3.16
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jsonschema==2.6.0
 kiwisolver==1.0.1
 latex==0.7.0
