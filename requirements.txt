@@ -33,7 +33,7 @@ Flask-Auth==0.85
 Flask-Auth-Client==0.0.4
 Flask-Bcrypt==0.7.1
 Flask-Breadcrumbs==0.4.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-FBLogin==0.0.1
 Flask-FluidDB==0.1
 Flask-Jsonpify==1.5.0
